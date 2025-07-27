@@ -137,6 +137,45 @@ src/
 - **Persistência de Sessão**: Login automático
 - **Backup de Dados**: Sincronização entre dispositivos (futuro)
 
+## 🚀 Como Executar o Projeto
+
+### Pré-requisitos
+- Node.js (versão 16 ou superior)
+- npm ou yarn
+- Expo CLI
+- Android Studio (para Android) ou Xcode (para iOS)
+
+### Instalação
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/viniciuscfreitas/xpinvestcoach.git
+cd xpinvestcoach
+```
+
+2. Instale as dependências:
+```bash
+npm install
+```
+
+3. Execute o projeto:
+```bash
+npx expo start
+```
+
+4. Use o Expo Go no seu dispositivo móvel ou um emulador para visualizar o app.
+
+## 🎯 Objetivos do Projeto
+
+Este projeto foi desenvolvido com o objetivo de demonstrar habilidades em:
+
+- **Desenvolvimento Mobile**: React Native com TypeScript
+- **UX/UI Design**: Interface intuitiva e responsiva
+- **Arquitetura de Software**: Organização modular e escalável
+- **Gerenciamento de Estado**: Context API e AsyncStorage
+- **Gamificação**: Sistema de pontuação e engajamento
+- **Educação Financeira**: Conteúdo educacional estruturado
+
 ## 🚀 Próximos Passos
 
 ### Funcionalidades Futuras:
