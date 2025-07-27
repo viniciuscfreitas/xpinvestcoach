@@ -187,3 +187,11 @@ Este projeto foi desenvolvido com o objetivo de demonstrar habilidades em:
 - [ ] Integração com bancos
 - [ ] Relatórios detalhados
 - [ ] Comunidade de investidores
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+**Desenvolvido com ❤️ por Vinícius do Carmo Fonseca Freitas**
