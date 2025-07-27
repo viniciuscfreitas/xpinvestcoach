@@ -23,15 +23,12 @@ O XP Invest Coach é uma plataforma educacional gamificada que ajuda usuários a
 O design do aplicativo foi criado no Figma e pode ser visualizado através do link:
 **[🔗 Protótipo no Figma](https://www.figma.com/design/WGB5Y3rz9kpOe2s8wBPrAD/XP-Invest-Coach?node-id=0-1&t=FnemdBwgBQ8pcW41-1)**
 
-## 👥 Equipe de Desenvolvimento
+## 👨‍💻 Desenvolvedor
 
-| Nome | RM |
-|------|-----|
-| **Geovanna Silva Cunha** | RM 97736 |
-| **Victor Camargo Maciel** | RM 98384 |
-| **Vinícius do Carmo Fonseca Freitas** | RM 97599 |
-| **Gustavo Medeiros** | RM 552093 |
-| **João Arthur Monteiro Pajaro** | RM 551272 |
+**Vinícius do Carmo Fonseca Freitas**
+- [LinkedIn](https://www.linkedin.com/in/viniciuscfreitas/)
+- [GitHub](https://github.com/viniciuscfreitas)
+- [Portfólio](https://viniciuscfreitas.dev)
 
 ## 🛠️ Tecnologias Utilizadas
 
