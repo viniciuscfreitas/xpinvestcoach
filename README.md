@@ -26,7 +26,7 @@ O design do aplicativo foi criado no Figma e pode ser visualizado através do li
 ## 👨‍💻 Desenvolvedor
 
 **Vinícius do Carmo Fonseca Freitas**
-- [LinkedIn](https://www.linkedin.com/in/viniciuscfreitas/)
+- [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-freitas-5656ab2ab/)
 - [GitHub](https://github.com/viniciuscfreitas)
 - [Portfólio](https://viniciuscfreitas.dev)
 
